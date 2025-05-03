@@ -1,4 +1,4 @@
-# Paint Free
+# Paint Basic
 
 **Author:** Bocaletto Luca
 
@@ -6,7 +6,7 @@
 
 **License:** GPLv3
 
-Paint Free is a Python application that provides a graphical interface for digital drawing. This intuitive tool allows users to explore their creativity digitally, offering a wide range of drawing features.
+Paint Basic is a Python application that provides a graphical interface for digital drawing. This intuitive tool allows users to explore their creativity digitally, offering a wide range of drawing features.
 
 ![Screenshot 2023-10-10 032736](https://github.com/elektronoide/Paint-Free/assets/134635227/7c81c977-5470-4703-9dbb-b858f24dccf0)
 
