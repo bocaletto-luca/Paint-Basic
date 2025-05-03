@@ -1,6 +1,5 @@
-# Nome del software: Paint Free
+# Nome del software: Paint Basic
 # Autore: Luca Bocaletto
-# Sito Web: https://www.elektronoide.it
 # Licenza: GPLv3
 
 import tkinter as tk
@@ -11,7 +10,7 @@ from PIL import Image, ImageDraw, ImageTk
 class DrawingApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Paint Free")
+        self.root.title("Paint Basic")
 
         self.canvas = tk.Canvas(root, bg="white", width=800, height=600)
         self.canvas.pack()
