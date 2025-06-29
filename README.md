@@ -17,3 +17,12 @@ Paint Basic is a Python application that provides a graphical interface for digi
 - **Export Your Work:** Save your drawings as PNG files to preserve or share them with others.
 
 Paint Free is an open-source application distributed under the GPLv3 license. Developed by Luca Bocaletto, it is ideal for digital artists, drawing enthusiasts, and anyone looking to explore the world of digital drawing.
+
+---
+
+**Maintainer Update**
+
+All legacy projects from the old `@Elektronoide` GitHub account are now officially maintained by **@bocaletto-luca**. Please direct any issues, pull requests, and stars to **@bocaletto-luca** for all future updates.
+
+---
+
